@@ -19,7 +19,7 @@ Free,open-source CMS based on the Laravel PHP Framework
 ## 页面预览（Page PreView）
 
 
-<!-- ![](http://o93kt6djh.bkt.clouddn.com/cowcat-1.Login.png) -->
+![](http://o93kt6djh.bkt.clouddn.com/cowcat-1.Login.png）
 
 ![](http://o93kt6djh.bkt.clouddn.com/cowcat-2.Index.png)
 
@@ -27,9 +27,9 @@ Free,open-source CMS based on the Laravel PHP Framework
 
 ![](http://o93kt6djh.bkt.clouddn.com/cowcat-4.Log.png)
 
-<!-- ![](http://o93kt6djh.bkt.clouddn.com/cowcat-5.Permission.png) -->
+![](http://o93kt6djh.bkt.clouddn.com/cowcat-5.Permission.png)
 
-<!-- ![](http://o93kt6djh.bkt.clouddn.com/cowcat-6.Assocate.png) -->
+![](http://o93kt6djh.bkt.clouddn.com/cowcat-6.Assocate.png)
 
 
 ## 环境要求（Requirements）
